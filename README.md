@@ -1,4 +1,4 @@
-# CNNs
+# Understanding Convolutional Networks Part 1
 
 ![alt_text](https://adeshpande3.github.io/assets/Cover.png)
 
